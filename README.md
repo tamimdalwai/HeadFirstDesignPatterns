@@ -249,23 +249,6 @@ Concerned with communication between objects, how objects interact and distribut
     - Defines skeleton of an algorithm
     - Lets subclasses redefine specific steps
 
-## 🔍 Design Principles
-
-### SOLID Principles
-1. **Single Responsibility Principle**
-    - A class should have only one reason to change
-
-2. **Open/Closed Principle**
-    - Open for extension, closed for modification
-
-3. **Liskov Substitution Principle**
-    - Objects should be replaceable with instances of their subtypes
-
-4. **Interface Segregation Principle**
-    - Many client-specific interfaces are better than one general-purpose interface
-
-5. **Dependency Inversion Principle**
-    - Depend on abstractions, not concrete implementations
 
 ## 💡 Best Practices
 - Prefer composition over inheritance
@@ -288,5 +271,4 @@ Concerned with communication between objects, how objects interact and distribut
 ## 🤝 Contribution
 Contributions, improvements, and feedback are welcome!
 
-## 📜 License
-[Specify your license here]
+
