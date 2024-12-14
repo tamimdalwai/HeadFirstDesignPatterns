@@ -1,4 +1,4 @@
-package com.example.headfirst.chapter1.paymentexample.strategy;
+package com.headfirst.chapter1.strategyPattern.paymentexample.strategy;
 
 public class CreditCardPayment implements PaymentStrategy{
     private final String cardNumber;

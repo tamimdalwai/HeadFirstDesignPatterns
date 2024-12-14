@@ -1,4 +1,4 @@
-package com.example.headfirst.chapter1.SimUDuck.strategy;
+package com.headfirst.chapter1.strategyPattern.SimUDuck.strategy;
 
 public class FlyNoWay implements FlyBehavior {
     @Override

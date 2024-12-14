@@ -1,7 +1,7 @@
-package com.example.headfirst.chapter1.SimUDuck;
+package com.headfirst.chapter1.strategyPattern.SimUDuck;
 
-import com.example.headfirst.chapter1.SimUDuck.strategy.FlyWithWings;
-import com.example.headfirst.chapter1.SimUDuck.strategy.Quack;
+import com.headfirst.chapter1.strategyPattern.SimUDuck.strategy.FlyWithWings;
+import com.headfirst.chapter1.strategyPattern.SimUDuck.strategy.Quack;
 
 public class MallardDuck extends Duck{
     public MallardDuck() {

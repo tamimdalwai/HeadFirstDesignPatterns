@@ -1,7 +1,7 @@
-package com.example.headfirst.chapter1.paymentexample;
+package com.headfirst.chapter1.strategyPattern.paymentexample;
 
 
-import com.example.headfirst.chapter1.paymentexample.strategy.PaymentStrategy;
+import com.headfirst.chapter1.strategyPattern.paymentexample.strategy.PaymentStrategy;
 
 public class PaymentProcessor {
     private PaymentStrategy paymentStrategy;

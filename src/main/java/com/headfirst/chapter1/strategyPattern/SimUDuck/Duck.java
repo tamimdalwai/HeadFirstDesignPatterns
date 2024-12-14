@@ -1,7 +1,7 @@
-package com.example.headfirst.chapter1.SimUDuck;
+package com.headfirst.chapter1.strategyPattern.SimUDuck;
 
-import com.example.headfirst.chapter1.SimUDuck.strategy.FlyBehavior;
-import com.example.headfirst.chapter1.SimUDuck.strategy.QuackBehavior;
+import com.headfirst.chapter1.strategyPattern.SimUDuck.strategy.FlyBehavior;
+import com.headfirst.chapter1.strategyPattern.SimUDuck.strategy.QuackBehavior;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;

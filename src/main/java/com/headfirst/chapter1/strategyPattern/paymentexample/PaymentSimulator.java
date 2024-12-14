@@ -1,7 +1,7 @@
-package com.example.headfirst.chapter1.paymentexample;
+package com.headfirst.chapter1.strategyPattern.paymentexample;
 
-import com.example.headfirst.chapter1.paymentexample.strategy.CreditCardPayment;
-import com.example.headfirst.chapter1.paymentexample.strategy.PayPalPayment;
+import com.headfirst.chapter1.strategyPattern.paymentexample.strategy.CreditCardPayment;
+import com.headfirst.chapter1.strategyPattern.paymentexample.strategy.PayPalPayment;
 
 public class PaymentSimulator {
     public static void main(String[] args) {
